@@ -1,0 +1,17 @@
+{
+  "name": "andrew-lu-portfolio",
+  "version": "1.0.0",
+  "description": "ML Software Engineer Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": ["portfolio", "machine-learning", "ai", "software-engineer"],
+  "author": "Andrew Lu",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0",
+    "gh-pages": "^5.0.0"
+  }
+}
